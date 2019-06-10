@@ -1,2 +1,4 @@
 # gradle-base
-gradle学习
+- gradle 学习
+- gradlew 的基本功能学习
+
